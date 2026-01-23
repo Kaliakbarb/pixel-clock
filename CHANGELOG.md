@@ -4,3 +4,4 @@
 - refine main loop
 - tighten state handling
 - tweak error handling
+- clean up error handling
