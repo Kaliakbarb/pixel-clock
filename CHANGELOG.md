@@ -5,3 +5,4 @@
 - tighten state handling
 - tweak error handling
 - clean up error handling
+- rework validation
