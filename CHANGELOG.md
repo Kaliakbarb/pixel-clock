@@ -6,3 +6,4 @@
 - tweak error handling
 - clean up error handling
 - rework validation
+- clean up input parsing
