@@ -8,3 +8,4 @@
 - rework validation
 - clean up input parsing
 - adjust naming
+- polish output formatting
