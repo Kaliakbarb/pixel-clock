@@ -7,3 +7,4 @@
 - clean up error handling
 - rework validation
 - clean up input parsing
+- adjust naming
