@@ -9,3 +9,4 @@
 - clean up input parsing
 - adjust naming
 - polish output formatting
+- simplify main loop
