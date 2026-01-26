@@ -10,3 +10,4 @@
 - adjust naming
 - polish output formatting
 - simplify main loop
+- clean up main loop
