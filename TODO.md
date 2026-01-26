@@ -7,3 +7,4 @@
 - [ ] package it properly
 - [ ] publish a small demo
 - [ ] performance pass
+- [ ] refactor into modules
