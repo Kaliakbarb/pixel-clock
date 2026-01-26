@@ -11,3 +11,4 @@
 - polish output formatting
 - simplify main loop
 - clean up main loop
+- clean up docs wording
