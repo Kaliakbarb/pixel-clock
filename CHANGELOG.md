@@ -13,3 +13,4 @@
 - clean up main loop
 - clean up docs wording
 - refine output formatting
+- tweak startup flow
