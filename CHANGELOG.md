@@ -14,3 +14,4 @@
 - clean up docs wording
 - refine output formatting
 - tweak startup flow
+- improve help text
