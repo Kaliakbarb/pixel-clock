@@ -6,3 +6,4 @@
 - tried an alternative layout, kept the simple one
 - wrote down ideas from a blog post I read today
 - edge case: empty input used to crash, fixed
+- profiled the slow path, most of the time is IO
