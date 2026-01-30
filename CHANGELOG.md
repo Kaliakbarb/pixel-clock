@@ -15,3 +15,4 @@
 - refine output formatting
 - tweak startup flow
 - improve help text
+- fix output formatting
