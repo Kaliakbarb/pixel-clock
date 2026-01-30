@@ -9,3 +9,4 @@
 - profiled the slow path, most of the time is IO
 - should test this on windows at some point
 - found a nicer color palette, may switch later
+- thought about a plugin system - overkill for now
