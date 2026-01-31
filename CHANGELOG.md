@@ -19,3 +19,4 @@
 - rework docs wording
 - refine config handling
 - improve validation
+- improve config handling
