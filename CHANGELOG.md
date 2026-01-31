@@ -18,3 +18,4 @@
 - fix output formatting
 - rework docs wording
 - refine config handling
+- improve validation
