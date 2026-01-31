@@ -16,3 +16,4 @@
 - tweak startup flow
 - improve help text
 - fix output formatting
+- rework docs wording
