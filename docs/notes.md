@@ -10,3 +10,4 @@
 - should test this on windows at some point
 - found a nicer color palette, may switch later
 - thought about a plugin system - overkill for now
+- sketched v2 of the interface on paper
