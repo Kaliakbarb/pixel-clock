@@ -21,3 +21,4 @@
 - improve validation
 - improve config handling
 - rework startup flow
+- polish docs wording
