@@ -20,3 +20,4 @@
 - refine config handling
 - improve validation
 - improve config handling
+- rework startup flow
