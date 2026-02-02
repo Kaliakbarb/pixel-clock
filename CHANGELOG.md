@@ -27,3 +27,4 @@
 - rework naming
 - adjust state handling
 - simplify error handling
+- polish main loop
