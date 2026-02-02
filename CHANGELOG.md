@@ -25,3 +25,4 @@
 - clean up config handling
 - tweak state handling
 - rework naming
+- adjust state handling
