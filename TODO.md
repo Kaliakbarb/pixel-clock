@@ -17,3 +17,4 @@
 - [ ] add examples to the readme
 - [ ] keyboard shortcuts
 - [ ] add tests
+- [ ] add colors to output
