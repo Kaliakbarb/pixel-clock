@@ -15,3 +15,4 @@
 - [ ] handle unicode input
 - [ ] add a CI workflow
 - [ ] add examples to the readme
+- [ ] keyboard shortcuts
