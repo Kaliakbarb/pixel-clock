@@ -22,3 +22,4 @@
 - improve config handling
 - rework startup flow
 - polish docs wording
+- clean up config handling
