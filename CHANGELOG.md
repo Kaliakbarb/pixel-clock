@@ -26,3 +26,4 @@
 - tweak state handling
 - rework naming
 - adjust state handling
+- simplify error handling
