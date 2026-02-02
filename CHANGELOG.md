@@ -23,3 +23,4 @@
 - rework startup flow
 - polish docs wording
 - clean up config handling
+- tweak state handling
