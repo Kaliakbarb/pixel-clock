@@ -28,3 +28,4 @@
 - adjust state handling
 - simplify error handling
 - polish main loop
+- tweak validation
