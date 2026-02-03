@@ -29,3 +29,4 @@
 - simplify error handling
 - polish main loop
 - tweak validation
+- tweak naming
