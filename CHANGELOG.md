@@ -30,3 +30,4 @@
 - polish main loop
 - tweak validation
 - tweak naming
+- tighten naming
