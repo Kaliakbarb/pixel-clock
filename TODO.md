@@ -24,3 +24,4 @@
 - [ ] refactor into modules
 - [ ] add screenshots to the readme
 - [ ] dark mode
+- [ ] better error messages
