@@ -33,3 +33,4 @@
 - tighten naming
 - improve edge case handling
 - fix help text
+- refine error handling
