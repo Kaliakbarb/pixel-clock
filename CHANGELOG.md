@@ -34,3 +34,4 @@
 - improve edge case handling
 - fix help text
 - refine error handling
+- refine docs wording
