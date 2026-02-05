@@ -32,3 +32,4 @@
 - tweak naming
 - tighten naming
 - improve edge case handling
+- fix help text
