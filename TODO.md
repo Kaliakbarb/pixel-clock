@@ -25,3 +25,4 @@
 - [ ] add screenshots to the readme
 - [ ] dark mode
 - [ ] better error messages
+- [ ] support a config file
