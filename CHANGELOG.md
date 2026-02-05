@@ -31,3 +31,4 @@
 - tweak validation
 - tweak naming
 - tighten naming
+- improve edge case handling
