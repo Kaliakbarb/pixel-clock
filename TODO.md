@@ -22,3 +22,4 @@
 - [ ] publish a small demo
 - [ ] performance pass
 - [ ] refactor into modules
+- [ ] add screenshots to the readme
