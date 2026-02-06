@@ -18,3 +18,4 @@
 - edge case: empty input used to crash, fixed
 - profiled the slow path, most of the time is IO
 - should test this on windows at some point
+- found a nicer color palette, may switch later
