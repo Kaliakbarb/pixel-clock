@@ -36,3 +36,4 @@
 - refine error handling
 - refine docs wording
 - fix error handling
+- adjust input parsing
