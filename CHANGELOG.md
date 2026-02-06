@@ -35,3 +35,4 @@
 - fix help text
 - refine error handling
 - refine docs wording
+- fix error handling
