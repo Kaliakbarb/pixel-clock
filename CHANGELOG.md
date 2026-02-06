@@ -38,3 +38,4 @@
 - fix error handling
 - adjust input parsing
 - fix docs wording
+- tweak help text
