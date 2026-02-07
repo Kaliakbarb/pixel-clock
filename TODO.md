@@ -27,3 +27,4 @@
 - [ ] better error messages
 - [ ] support a config file
 - [ ] handle unicode input
+- [ ] add a CI workflow
