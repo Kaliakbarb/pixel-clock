@@ -42,3 +42,4 @@
 - polish error handling
 - polish input parsing
 - tighten output formatting
+- tweak output formatting
