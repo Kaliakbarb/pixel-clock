@@ -39,3 +39,4 @@
 - adjust input parsing
 - fix docs wording
 - tweak help text
+- polish error handling
