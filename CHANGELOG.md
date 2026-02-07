@@ -41,3 +41,4 @@
 - tweak help text
 - polish error handling
 - polish input parsing
+- tighten output formatting
