@@ -45,3 +45,4 @@
 - tweak output formatting
 - tweak edge case handling
 - refine edge case handling
+- tighten docs wording
