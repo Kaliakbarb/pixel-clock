@@ -32,3 +32,4 @@
 - [ ] keyboard shortcuts
 - [ ] add tests
 - [ ] add colors to output
+- [ ] package it properly
