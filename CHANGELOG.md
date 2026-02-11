@@ -48,3 +48,4 @@
 - tighten docs wording
 - clean up output formatting
 - tweak docs wording
+- tweak input parsing
