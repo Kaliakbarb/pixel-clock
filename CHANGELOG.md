@@ -47,3 +47,4 @@
 - refine edge case handling
 - tighten docs wording
 - clean up output formatting
+- tweak docs wording
