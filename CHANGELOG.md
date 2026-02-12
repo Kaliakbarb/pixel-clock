@@ -50,3 +50,4 @@
 - tweak docs wording
 - tweak input parsing
 - adjust startup flow
+- polish validation
