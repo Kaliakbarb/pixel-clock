@@ -49,3 +49,4 @@
 - clean up output formatting
 - tweak docs wording
 - tweak input parsing
+- adjust startup flow
