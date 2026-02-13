@@ -53,3 +53,4 @@
 - polish validation
 - polish help text
 - improve error handling
+- adjust error handling
