@@ -52,3 +52,4 @@
 - adjust startup flow
 - polish validation
 - polish help text
+- improve error handling
