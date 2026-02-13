@@ -51,3 +51,4 @@
 - tweak input parsing
 - adjust startup flow
 - polish validation
+- polish help text
