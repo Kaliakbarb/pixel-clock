@@ -54,3 +54,4 @@
 - polish help text
 - improve error handling
 - adjust error handling
+- refine state handling
