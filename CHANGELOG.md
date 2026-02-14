@@ -58,3 +58,4 @@
 - tweak config handling
 - refine startup flow
 - clean up edge case handling
+- clean up validation
