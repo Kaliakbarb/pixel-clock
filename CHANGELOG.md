@@ -55,3 +55,4 @@
 - improve error handling
 - adjust error handling
 - refine state handling
+- tweak config handling
