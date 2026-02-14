@@ -56,3 +56,4 @@
 - adjust error handling
 - refine state handling
 - tweak config handling
+- refine startup flow
