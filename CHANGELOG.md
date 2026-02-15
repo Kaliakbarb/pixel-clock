@@ -59,3 +59,4 @@
 - refine startup flow
 - clean up edge case handling
 - clean up validation
+- rework state handling
