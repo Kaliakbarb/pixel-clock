@@ -63,3 +63,4 @@
 - tighten help text
 - simplify startup flow
 - fix config handling
+- adjust docs wording
