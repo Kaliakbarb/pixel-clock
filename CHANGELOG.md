@@ -61,3 +61,4 @@
 - clean up validation
 - rework state handling
 - tighten help text
+- simplify startup flow
