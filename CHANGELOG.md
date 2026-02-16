@@ -60,3 +60,4 @@
 - clean up edge case handling
 - clean up validation
 - rework state handling
+- tighten help text
