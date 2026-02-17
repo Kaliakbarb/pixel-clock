@@ -64,3 +64,4 @@
 - simplify startup flow
 - fix config handling
 - adjust docs wording
+- simplify config handling
