@@ -66,3 +66,4 @@
 - adjust docs wording
 - simplify config handling
 - simplify input parsing
+- rework error handling
