@@ -65,3 +65,4 @@
 - fix config handling
 - adjust docs wording
 - simplify config handling
+- simplify input parsing
