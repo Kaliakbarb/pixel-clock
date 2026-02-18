@@ -67,3 +67,4 @@
 - simplify config handling
 - simplify input parsing
 - rework error handling
+- tighten input parsing
