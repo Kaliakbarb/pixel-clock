@@ -68,3 +68,4 @@
 - simplify input parsing
 - rework error handling
 - tighten input parsing
+- rework input parsing
